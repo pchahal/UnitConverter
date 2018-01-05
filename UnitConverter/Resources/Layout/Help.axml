@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <ScrollView
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent">
+        <LinearLayout
+            android:id="@+id/helpLayout"
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+            <TextView
+                android:id="@+id/tvExamples"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="HOW TO CONVERT UNITS"
+                android:background="@android:color/darker_gray"
+                android:textColor="@android:color/white"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/tvAreaUnits"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="10"
+                android:text="1. Click the green Start button\n2. Speak into Mic. example:\n     &apos;5 miles to feet\&apos;\n     &apos;2 Pounds to Kilograms\&apos;\n     &apos;4 Tablespoons to Teaspoons\&apos;" />
+            <TextView
+                android:id="@+id/tvArea"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="AREA"
+                android:background="@android:color/darker_gray"
+                android:textColor="@android:color/white"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/tvAreaUnits"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="10"
+                android:text="ACRE\nHECTARE\nSQUARE FOOT\nSQUARE METER\nSQUARE KILOMETRE\nSQUARE INCH\nSQUARE YARD\nSQUARE MILE" />
+            <TextView
+                android:id="@+id/tvLength"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="LENGTH"
+                android:background="@android:color/darker_gray"
+                android:textColor="@android:color/white"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/tvLengthUnits"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="10"
+                android:text="MILLIMETRE\nCENTIMETRE\nDECIMETRE\nMETRE\nKILOMETER\nFOOT\nINCH\nMILE\nYARD" />
+            <TextView
+                android:id="@+id/tvTemperture"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="TEMPERTURE"
+                android:background="@android:color/darker_gray"
+                android:textColor="@android:color/white"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/tvTempertureUnits"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="10"
+                android:text="FAHRENHEIT\nCELSIUS\" />
+            <TextView
+                android:id="@+id/tvTime"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="TIME"
+                android:background="@android:color/darker_gray"
+                android:textColor="@android:color/white"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/tvTimeUnits"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="10"
+                android:text="DAY\nHOUR\nSECOND\nMINUTE\nYEAR" />
+            <TextView
+                android:id="@+id/tvVolume"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="VOLUME"
+                android:background="@android:color/darker_gray"
+                android:textColor="@android:color/white"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/tvVolumeUnits"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="10"
+                android:text="CUBIC FOOT\nCUBIC INCH\nCUBIC MILE\nCUBIC YARD\nCUP\nGALLON\nLITER\nMILLILITER\nPINT\nQUART\nTABLESPOON\nTEASPOON\n" />
+            <TextView
+                android:id="@+id/tvWeight"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="WEIGHT"
+                android:background="@android:color/darker_gray"
+                android:textColor="@android:color/white"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/tvWeightUnits"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="10"
+                android:text="MILLIGRAM\nGRAM\nKILOGRAM\nCARAT\nPOUND\nTONNE\nOUNCE\n" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

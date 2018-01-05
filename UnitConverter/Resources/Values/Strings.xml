@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  
+  
+  
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">UnitConverter</string>
+
+  <!-- ============================== -->
+  <!--  app/voice recognition examples strings  -->
+  <!-- ============================== -->
+
+  
+  <string name="speak_button">Speak</string>
+  <string name="help_button">Help</string>
+  <string name="share_button">More</string>
+  <string name="voice_recognition_results">Results:</string>
+
+  <string-array name="shareDialogList">
+    <item>By SMS</item>
+    <item>By Email</item>
+    <item>Cancel</item>
+  </string-array>
+
+
+</resources>

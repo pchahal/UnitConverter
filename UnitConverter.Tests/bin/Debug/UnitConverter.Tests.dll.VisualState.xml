@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1011]C:\Users\par\Documents\Visual Studio 2012\Projects\UnitConverter\UnitConverter.Tests\bin\Debug\UnitConverter.Tests.dll</TopNode>
+  <SelectedNode>[0-1007]UnitConverter.Tests.UnitConversionTests.FiveFeetToMilesValidStringReturns5ForMeasurement</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1011]C:\Users\par\Documents\Visual Studio 2012\Projects\UnitConverter\UnitConverter.Tests\bin\Debug\UnitConverter.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1012]UnitConverter" Expanded="true" />
+    <Node UniqueName="[0-1013]UnitConverter.Tests" Expanded="true" />
+    <Node UniqueName="[0-1000]UnitConverter.Tests.CalculatorTests" Expanded="true" />
+    <Node UniqueName="[0-1004]UnitConverter.Tests.UnitConversionTests" Expanded="true" />
+  </Nodes>
+</VisualState>

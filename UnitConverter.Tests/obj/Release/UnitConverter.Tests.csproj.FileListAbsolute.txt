@@ -1,0 +1,9 @@
+C:\Users\par\Documents\Visual Studio 2012\Projects\UnitConverter\UnitConverter.Tests\bin\Release\UnitConverter.Tests.dll
+C:\Users\par\Documents\Visual Studio 2012\Projects\UnitConverter\UnitConverter.Tests\bin\Release\UnitConverter.Tests.pdb
+C:\Users\par\Documents\Visual Studio 2012\Projects\UnitConverter\UnitConverter.Tests\bin\Release\ConverterFramework.dll
+C:\Users\par\Documents\Visual Studio 2012\Projects\UnitConverter\UnitConverter.Tests\bin\Release\nunit.framework.dll
+C:\Users\par\Documents\Visual Studio 2012\Projects\UnitConverter\UnitConverter.Tests\bin\Release\ConverterFramework.pdb
+C:\Users\par\Documents\Visual Studio 2012\Projects\UnitConverter\UnitConverter.Tests\bin\Release\nunit.framework.xml
+C:\Users\par\Documents\Visual Studio 2012\Projects\UnitConverter\UnitConverter.Tests\obj\Release\UnitConverter.Tests.csprojResolveAssemblyReference.cache
+C:\Users\par\Documents\Visual Studio 2012\Projects\UnitConverter\UnitConverter.Tests\obj\Release\UnitConverter.Tests.dll
+C:\Users\par\Documents\Visual Studio 2012\Projects\UnitConverter\UnitConverter.Tests\obj\Release\UnitConverter.Tests.pdb
